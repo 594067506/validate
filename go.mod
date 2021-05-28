@@ -1,4 +1,4 @@
-module validate
+module github.com/594067506/validate
 
 go 1.16
 
