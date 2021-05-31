@@ -1,4 +1,4 @@
-module github.com/594067506/validate
+module github.com/coder-sh-gl/validate
 
 go 1.16
 
